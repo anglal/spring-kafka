@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zlimbu.lal</groupId>
-	<artifactId>spring-kaka-producer</artifactId>
+	<artifactId>spring-kaka-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-kaka-producer</name>
+	<name>spring-kaka-consumer</name>
 	<description>Kafka and springboot</description>
 	<properties>
 		<java.version>17</java.version>
